@@ -1,4 +1,4 @@
 # VegasKei-Bots
 NONAME VEGASIN BOTU ALIN GÜLE GÜLE KULLANIN BOTU HATASIZ BİR ŞEKİLDE PAYLAŞTIM ONLAR GENELDE HATALI PAYLAŞIR QWFKQWFWKQFKQWFKQWF
-
+botu kullanan shavie elchavo juqest adlı arkadaşlara selamlar ;)
 STARLAYIN
