@@ -1,0 +1,121 @@
+{
+  "Bot": {
+    "Token": "OTM1NjA2Njc4MTk4NTcxMDA4.GC9As5.POSa1N-vRuY160qog2SZsE3-TjVyZAO1DaLz_E",
+    "MongoURL": "mongodb+srv://wex:wex@wex.gacg4.mongodb.net/deneme?retryWrites=true&w=majority",
+    "Durum": "Rellyizm",
+    "Status": "online",
+    "Owners": ["837686195877838889"],
+    "Prefix": ["!", ".", "w!","?"]
+  },
+
+  "Server": {
+    "GuildID": "885224019526307950",
+    "GuildName": "Rellyizm",
+    "DavetLink": "https://discord.gg/3001",
+    "Emoji": "⭐",
+    "WelcomeSunucuİsmi": "Rellyizm"
+  },
+
+  "Channels": {
+    "VoiceChannelID": "954064443984203857",
+    "FotoChat": "981261495579074600",
+    "YasaklıTag": "981261495579074600",
+    "Log": "981261495579074600",
+    "PublicCategory": "954064424795267112",
+    "Chat": "954064482030719096",
+    "Register": "954064439567581334",
+    "Tag": "Rellyizm",
+    "TagAyrıcalıkları": "981261495579074600",
+    "StreamerDenetim": "981261495579074600",
+    "ChatMute": "981261495579074600",
+    "Ban": "981261495579074600",
+    "VoiceMute": "981261495579074600",
+    "Jail": "981261495579074600",
+    "Cezapuanı": "981261495579074600",
+    "InvLog": "981261495579074600",
+    "newAcc": "981261495579074600",
+    "Voice": "981261495579074600",
+    "Rules": "981261495579074600"
+  },
+  
+  "Emoji": {
+    "TickEmoji": "<:rellyes:916002930077884416>",
+    "RedEmoji": "<:rellyno:916024855487463525>"
+  },
+
+  "Tag": {
+    "TagRolü": "954064378477576192",
+    "Tag": "Rellyizm",
+    "Tags": [""]
+  },
+
+   "Hammer": {
+    "Ban": ["",""],
+    "Other": [],
+    "BotCommands": ["",""],
+    "YetkiliAlım": ["",""],
+    "VoiceMute": ["",""],
+    "ChatMute": ["",""],
+    "Jail": ["",""],
+    "Move": ["",""],
+    "RolAlVerYetkilisi": [""]
+  },
+
+  "Puan": {
+    "kayıtPuan": 8,
+    "tagPuan": 12,
+    "kayıtCoin": 8,
+    "tagCoin": 12,
+    "invitePuan": 10,
+    "inviteCoin": 10
+  },
+  
+   "Staff": {
+    "StaffRoles": []
+  },
+  
+  "Roles": {
+    "Erkek": ["954064385284915201","954064386685829140"],
+    "Kız":["954064383800139846","954064384701890580"],
+    "BoosterRolü": "",
+    "Vip": "",
+    "YetkiliRolleri": [""],
+    "EnAltYetkiliRolü": "",
+    "YasaklıTagRolü": "",
+    "KayıtsızRolü": [""],
+    "Unregister": ["954064387872804905"],
+    "NewAcc": "",
+    "YöneticiRolü": "",
+    "CezalıRolü": "",
+    "NewAccRole": "",
+    "Muted": "",
+    "Sponsor": "",
+    "Müzisyen": "",
+    "PermCommands":[
+     { "UsePeople": [""], "Usages": ["vip"], "Roles": ["966455660218834944"] },
+     { "UsePeople": ["",""], "Usages": ["alone"], "Roles": [""] },
+     { "UsePeople": ["",""], "Usages": ["couple"], "Roles": [""] },
+     { "UsePeople": [""], "Usages": ["sponsor"], "Roles": ["966455662823485460"] }
+    ]
+  },
+
+  "GifPp": {
+    "BanGif": "https://cdn.discordapp.com/attachments/787761299374211072/787857265452777502/giphy.gif"
+  },
+
+  "Webhook": {
+    "VoiceLogWebhook": {
+      "ID": "",
+      "Token": ""
+    },
+    "LogWebhook": {
+      "ID": "981262791203758211",
+      "Token": "JXVETrglUkXPcUkXa0e1n96jnaueD01FOhHJ6ryl6cakUtWoOotcZrvDggWXWwkuQO2g"
+    },
+    "RollogWebhook": {
+      "ID": "",
+      "Token": ""
+    }
+  }
+}
+
