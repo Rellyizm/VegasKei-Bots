@@ -1,7 +1,7 @@
 {
   "Bot": {
-    "Token": "OTM1NjA2Njc4MTk4NTcxMDA4.GC9As5.POSa1N-vRuY160qog2SZsE3-TjVyZAO1DaLz_E",
-    "MongoURL": "mongodb+srv://wex:wex@wex.gacg4.mongodb.net/deneme?retryWrites=true&w=majority",
+    "Token": "RellyToken",
+    "MongoURL": "mongodb+srv:/relly:relly@relly.gacg4.mongodb.net/deneme?retryWrites=true&w=majority",
     "Durum": "Rellyizm",
     "Status": "online",
     "Owners": ["837686195877838889"],
